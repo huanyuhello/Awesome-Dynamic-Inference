@@ -1,7 +1,7 @@
 # Awesome Dynamic Inference [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 A curated list for **Dynamic Inference** research in deep learning, including: **dynamic routing networks**, **early prediction networks** and **conditional computation networks**.
 
-A curated list of automated deep learning related resources. Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL.git) and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
+Inspired by [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers), [awesome-AutoDL](https://github.com/D-X-Y/Awesome-AutoDL.git) and [awesome-architecture-search](https://github.com/markdtw/awesome-architecture-search).
 
 Please feel free to [pull requests](https://github.com/huanyuhello/Awesome-DynamicInference/pulls) or [open an issue](https://github.com/huanyuhello/Awesome-DynamicInference/issues) to add papers.
 
@@ -58,13 +58,18 @@ Please feel free to [pull requests](https://github.com/huanyuhello/Awesome-Dynam
 | [Fully Dynamic Inference with Deep Neural Networks]() | UnKnown | R | - |
 | [Optimizing Neural Architecture Search using Limited GPU Time in a Dynamic Search Space: A Gene Expression Programming Approach]() | UnKnown | C | - |
 | [Dynamic ReLU]() | UnKnown | C | - |
-
+| [Computation on sparse neural networks: an inspiration for future hardware]() | UnKnown | R | - |
+| [Spatially adaptive inference with stochastic feature sampling and interpolation]() | UnKnown | R | - |
+| [Multi-scale dense networks for resource efficient image classification]() | ICLR | E | - |
+| [Dynamic group convolution for accelerating convolutional neural networks]() | | R | - |
+| [Discriminative layer pruning for convolutional neural networks]() | | R | - |
+| [Dynamic region aware convolution]() | | R | - |
 ### 2019
 |  Title  |   Venue  |   Type   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
 | [BlockDrop: Dynamic Inference Paths in Residual Networks]() | CVPR | R | - |
 | [Improved Techniques for Training Adaptive Deep Networks]() | ICCV | E | - |
-| [CoDiNet: Path Distribution Modeling with Consistency and Diversity for Dynamic Routing](https://arxiv.org/abs/2005.14439) | UnKnown | R | - | 
+| [Universally slimmable networks and improved training techniques]() | ICCV | R | - |
 
 ### 2018
 |  Title  |   Venue  |   Type   |   Code   |
@@ -72,17 +77,19 @@ Please feel free to [pull requests](https://github.com/huanyuhello/Awesome-Dynam
 | [SkipNet: Learning Dynamic Routing in Convolutional Networks]() | ECCV | R | - |
 | [Online Multi-Object Tracking with Instance-Aware Tracker and Dynamic Model Refreshment]() | ECCV | C | - |
 | [Convolutional Networks with Adaptive Inference Graphs]() | ECCV | R | - | 
+| [Slimmable neural networks]() |  | R | - |
+| [Multi-scale dense networks for resource efficient image classification]() | ICLR | E | - |
+| [Hydranets: Specialized dynamic architectures for efficient inference]() | CVPR | E | - |
 
-
-
-### 2017
+### 2012-2017
 |  Title  |   Venue  |   Type   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-
-### 2012-2016
-|  Title  |   Venue  |   Type   |   Code   |
-|:--------|:--------:|:--------:|:--------:|
-
+| [Branchynet: Fast inference via early exiting from deep neural networks]() | ICPR | E | - |
+| [Adaptive computation time for recurrent neural networks]()| | E | - |
+| [Spatially adaptive computation time for residual networks]()| CVPR | C | - |
+| [Recurrent segmentation for variable computational budgets]() | CVPR | E | - |
+| [Improved techniques for training adaptive deep networks]() | ICCV | E | - |
+| [Dynamic channel pruning: Feature boosting and suppression]() | ICLR | C | - |
 
 ## Surveys
 
